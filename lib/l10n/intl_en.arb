@@ -1,0 +1,18 @@
+{
+  "hello": "Hello, ",
+  "most_pop" : "Most popular",
+  "up_coming" : "Upcoming releases",
+  "home" : "Home",
+  "comment" : "Comment",
+  "ticket" : "Ticket",
+  "users" : "User",
+  "genres" : "Genres",
+  "tv_series" : "TV Series",
+  "movies" : "Movies",
+  "in_theore": "In Theore",
+  "search" : "Search",
+  "search_comment" : "Search for comments",
+  "search_ticket" : "Search for tickets",
+  "account" : "Account",
+  "user_info" : "User information"
+}

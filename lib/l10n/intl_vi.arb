@@ -1,0 +1,18 @@
+{
+  "hello": "Xin chào, ",
+  "most_pop" : "Phổ biến nhất",
+  "up_coming" : "Sắp ra mắt",
+  "home" : "Trang chủ",
+  "comment" : "Bình luận",
+  "ticket" : "Vé",
+  "users" : "Người dùng",
+  "genres" : "Thể loại",
+  "tv_series" : "TV Series",
+  "movies" : "Truyền hình",
+  "in_theore": "Nhạc kịch",
+  "search" : "Tìm kiếm",
+  "search_comment" : "Tìm kiếm bình luận",
+  "search_ticket" : "Tìm vé",
+  "account" : "Tài khoản",
+  "user_info" : "Thông tin người dùng"
+}
